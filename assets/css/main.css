@@ -8414,3 +8414,26 @@
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+                        
+/*Cutom*/                        
+
+.image-profile {
+    text-align: center;
+}
+
+.image-profile img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}        
+
+.hide {
+    display: none !important;
+}
+
+.language {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    z-index: 100;
+}
